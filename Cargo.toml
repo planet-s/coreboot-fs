@@ -1,0 +1,10 @@
+[package]
+name = "coreboot-fs"
+version = "0.1.0"
+authors = ["Jeremy Soller <jeremy@system76.com>"]
+edition = "2018"
+description = "Coreboot Filesystem Parser"
+license = "MIT"
+
+[dependencies]
+plain = "0.2.3"
